@@ -1,0 +1,17 @@
+{
+  "name": "Google",
+  "displayName": "Google",
+  "expo": {
+    "name": "Google",
+    "slug": "Google",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/image/splash.png",
+      "backgroundColor": "#FFFFFF"
+    },
+    "icon": "./assets/image/icon.png"
+  }
+}
