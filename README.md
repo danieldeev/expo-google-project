@@ -1,4 +1,4 @@
-# Expo Google Template
+# Expo Google Project
 > Projeto Google UI para aplicações Expo (React Native) simples e escaláveis. 
 
 ## Estrutura de pastas
